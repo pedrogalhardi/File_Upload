@@ -1,0 +1,7 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "cSpell.words": [
+    "filemodal"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
